@@ -1,6 +1,6 @@
 # PHP CRUD Application
 
-A simple web application demonstrating Create, Read, Update, and Delete (CRUD) operations using PHP and MySQL.
+A simple web application demonstrating Create, Read, Update, and Delete (CRUD) operations using PHP and MySQL. This project features a responsive design with Bootstrap 5 and includes basic form validation.
 
 ## Features
 
