@@ -30,10 +30,14 @@ A simple web application demonstrating Create, Read, Update, and Delete (CRUD) o
    cd php-crud-application
    ```
 
+- **Import the database:**
+
+  Import the **`database.sql`** file into your MySQL database.
+
 
 - **Configure the database connection:**
   
-  Update the **connect.php** file with your database credentials:
+  Update the **`connect.php`** file with your database credentials:
 
   ```
   <?php
@@ -81,10 +85,6 @@ A simple web application demonstrating Create, Read, Update, and Delete (CRUD) o
 
   Delete
   <img width="959" alt="Screenshot 2024-07-24 204234" src="https://github.com/user-attachments/assets/487b098e-a02f-47b0-b132-fbd2cbe99aa9">
-
-
-  
-
 
 
   
