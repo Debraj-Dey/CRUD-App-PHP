@@ -68,22 +68,27 @@ A simple web application demonstrating Create, Read, Update, and Delete (CRUD) o
 ## Screenshots
 
   Home page
+  
   <img width="959" alt="Screenshot 2024-07-24 211803" src="https://github.com/user-attachments/assets/f0600ad2-d5c4-4c58-af03-e69f3f65cb3f">
 
 
   New user
+  
   <img width="959" alt="Screenshot 2024-07-24 204136" src="https://github.com/user-attachments/assets/605eb930-0494-4eea-b7bc-9e0b200e5dc1">
 
 
   Insert Message
+  
   <img width="959" alt="Screenshot 2024-07-24 204214" src="https://github.com/user-attachments/assets/ecadb624-220a-454d-9126-4e949030b365">
 
 
   Update
+  
   <img width="959" alt="Screenshot 2024-07-24 204308" src="https://github.com/user-attachments/assets/550ac174-cf3a-4bf7-a396-141d3f11e8b9">
 
 
   Delete
+  
   <img width="959" alt="Screenshot 2024-07-24 204234" src="https://github.com/user-attachments/assets/487b098e-a02f-47b0-b132-fbd2cbe99aa9">
 
 
