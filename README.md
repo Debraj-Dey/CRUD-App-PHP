@@ -61,9 +61,9 @@ A simple web application demonstrating Create, Read, Update, and Delete (CRUD) o
 
 ## Usage
 
-- Click on the "New users" button to open a modal and add a new user.
-- Use the edit and delete icons to update or remove users.
-- Success and error messages will be displayed based on the operation performed.
+- Click on the "**New users**" button to open a modal and add a new user.
+- Use the **edit** and **delete** icons to update or remove users.
+- **Success** and **error** messages will be displayed based on the operation performed.
 
 ## Screenshots
 
